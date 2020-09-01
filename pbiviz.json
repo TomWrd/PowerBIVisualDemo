@@ -1,0 +1,7 @@
+{"visual":
+    {"name":"Custom Visual Demo",
+        "displayName":"Custom Visual Demo",
+        "guid":"demo63110654E82D42DF8DFDED5754211F0C1232",
+        "visualClassName":"Visual",
+        "version":"1.0.0","description":"Custom visual demo","supportUrl":"https://www.pragmaticworks.com/","gitHubUrl":""},"apiVersion":"2.6.0","author":{"name":"Tom Ward","email":"tward@pragmaticworks.com"},
+        "assets":{"icon":"assets/icon.png"},"externalJS":null,"style":"style/visual.less","capabilities":"capabilities.json","dependencies":null,"stringResources":[]}

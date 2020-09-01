@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Tom Ward","email":"tward@pragmaticworks.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/demo63110654E82D42DF8DFDED5754211F0C1232.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"Custom Visual Demo","displayName":"Custom Visual Demo","guid":"demo63110654E82D42DF8DFDED5754211F0C1232","visualClassName":"Visual","version":"1.0.0","description":"Custom visual demo","supportUrl":"https://www.pragmaticworks.com/","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
